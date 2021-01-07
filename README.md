@@ -15,4 +15,4 @@ response after sucessfully deleting a user from database
 ![](http://url/to/deleteUserResponse.png)
 
 
-I made this simple api to introduce myself to Go and because I love making API and backend development:)
+I made this simple api to introduce myself to Go and because I love making APIs and backend development:)
